@@ -1,0 +1,13 @@
+Line 15: Class MSFlexGridLib.MSFlexGrid of control msk_fretes was not a loaded control class.
+Line 89: Class MSMask.MaskEdBox of control msk_cep was not a loaded control class.
+Line 21: The property name _ExtentX in msk_fretes is invalid.
+Line 22: The property name _ExtentY in msk_fretes is invalid.
+Line 23: The property name _Version in msk_fretes is invalid.
+Line 24: The property name Cols in msk_fretes is invalid.
+Line 25: The property name FormatString in msk_fretes is invalid.
+Line 95: The property name _ExtentX in msk_cep is invalid.
+Line 96: The property name _ExtentY in msk_cep is invalid.
+Line 97: The property name _Version in msk_cep is invalid.
+Line 98: The property name MaxLength in msk_cep is invalid.
+Line 99: The property name Mask in msk_cep is invalid.
+Line 100: The property name PromptChar in msk_cep is invalid.

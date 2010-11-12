@@ -1,0 +1,40 @@
+Line 140: Class MSMask.MaskEdBox of control msk_senha was not a loaded control class.
+Line 152: Class MSMask.MaskEdBox of control msk_codigo was not a loaded control class.
+Line 233: Class MSMask.MaskEdBox of control msk_telefone was not a loaded control class.
+Line 262: Class MSMask.MaskEdBox of control msk_celular was not a loaded control class.
+Line 318: Class MSMask.MaskEdBox of control msk_rg was not a loaded control class.
+Line 354: Class MSMask.MaskEdBox of control msk_cpf was not a loaded control class.
+Line 146: The property name _ExtentX in msk_senha is invalid.
+Line 147: The property name _ExtentY in msk_senha is invalid.
+Line 148: The property name _Version in msk_senha is invalid.
+Line 149: The property name MaxLength in msk_senha is invalid.
+Line 150: The property name PromptChar in msk_senha is invalid.
+Line 158: The property name _ExtentX in msk_codigo is invalid.
+Line 159: The property name _ExtentY in msk_codigo is invalid.
+Line 160: The property name _Version in msk_codigo is invalid.
+Line 161: The property name MaxLength in msk_codigo is invalid.
+Line 162: The property name PromptChar in msk_codigo is invalid.
+Line 239: The property name _ExtentX in msk_telefone is invalid.
+Line 240: The property name _ExtentY in msk_telefone is invalid.
+Line 241: The property name _Version in msk_telefone is invalid.
+Line 242: The property name MaxLength in msk_telefone is invalid.
+Line 243: The property name Mask in msk_telefone is invalid.
+Line 244: The property name PromptChar in msk_telefone is invalid.
+Line 268: The property name _ExtentX in msk_celular is invalid.
+Line 269: The property name _ExtentY in msk_celular is invalid.
+Line 270: The property name _Version in msk_celular is invalid.
+Line 271: The property name MaxLength in msk_celular is invalid.
+Line 272: The property name Mask in msk_celular is invalid.
+Line 273: The property name PromptChar in msk_celular is invalid.
+Line 324: The property name _ExtentX in msk_rg is invalid.
+Line 325: The property name _ExtentY in msk_rg is invalid.
+Line 326: The property name _Version in msk_rg is invalid.
+Line 327: The property name MaxLength in msk_rg is invalid.
+Line 328: The property name Mask in msk_rg is invalid.
+Line 329: The property name PromptChar in msk_rg is invalid.
+Line 360: The property name _ExtentX in msk_cpf is invalid.
+Line 361: The property name _ExtentY in msk_cpf is invalid.
+Line 362: The property name _Version in msk_cpf is invalid.
+Line 363: The property name MaxLength in msk_cpf is invalid.
+Line 364: The property name Mask in msk_cpf is invalid.
+Line 365: The property name PromptChar in msk_cpf is invalid.

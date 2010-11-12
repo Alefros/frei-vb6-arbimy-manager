@@ -1,0 +1,7 @@
+Line 64: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrid1 was not a loaded control class.
+Line 75: Class MSChart20Lib.MSChart of control MSChart1 was not a loaded control class.
+Line 70: The property name _ExtentX in MSFlexGrid1 is invalid.
+Line 71: The property name _ExtentY in MSFlexGrid1 is invalid.
+Line 72: The property name _Version in MSFlexGrid1 is invalid.
+Line 73: The property name FormatString in MSFlexGrid1 is invalid.
+Line 78: The property name OleObjectBlob in MSChart1 is invalid.

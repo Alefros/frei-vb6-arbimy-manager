@@ -1,0 +1,13 @@
+txt_nome
+txt_rg
+msk_nascimento
+msk_telefone
+txt_celular
+txt_email
+msk_cep
+txt_cidade
+txt_uf
+txt_bairro
+txt_logradouro
+txt_numero
+txt_complemento

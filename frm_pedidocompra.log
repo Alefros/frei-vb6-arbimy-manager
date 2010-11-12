@@ -1,0 +1,11 @@
+Line 147: Class MSComCtl2.DTPicker of control dtp_data was not a loaded control class.
+Line 439: Class MSFlexGridLib.MSFlexGrid of control mfg_produtos was not a loaded control class.
+Line 153: The property name _ExtentX in dtp_data is invalid.
+Line 154: The property name _ExtentY in dtp_data is invalid.
+Line 155: The property name _Version in dtp_data is invalid.
+Line 157: The property name Format in dtp_data is invalid.
+Line 158: The property name CurrentDate in dtp_data is invalid.
+Line 445: The property name _ExtentX in mfg_produtos is invalid.
+Line 446: The property name _ExtentY in mfg_produtos is invalid.
+Line 447: The property name _Version in mfg_produtos is invalid.
+Line 448: The property name FormatString in mfg_produtos is invalid.

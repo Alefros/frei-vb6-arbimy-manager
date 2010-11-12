@@ -1,0 +1,30 @@
+Line 119: Class MSFlexGridLib.MSFlexGrid of control mfg_requisicao was not a loaded control class.
+Line 183: Class MSMask.MaskEdBox of control msk_codproduto was not a loaded control class.
+Line 194: Class MSMask.MaskEdBox of control msk_codbarras was not a loaded control class.
+Line 317: Class MSMask.MaskEdBox of control msk_data was not a loaded control class.
+Line 330: Class MSMask.MaskEdBox of control msk_codigo was not a loaded control class.
+Line 125: The property name _ExtentX in mfg_requisicao is invalid.
+Line 126: The property name _ExtentY in mfg_requisicao is invalid.
+Line 127: The property name _Version in mfg_requisicao is invalid.
+Line 128: The property name Cols in mfg_requisicao is invalid.
+Line 129: The property name FormatString in mfg_requisicao is invalid.
+Line 189: The property name _ExtentX in msk_codproduto is invalid.
+Line 190: The property name _ExtentY in msk_codproduto is invalid.
+Line 191: The property name _Version in msk_codproduto is invalid.
+Line 192: The property name PromptChar in msk_codproduto is invalid.
+Line 200: The property name _ExtentX in msk_codbarras is invalid.
+Line 201: The property name _ExtentY in msk_codbarras is invalid.
+Line 202: The property name _Version in msk_codbarras is invalid.
+Line 203: The property name MaxLength in msk_codbarras is invalid.
+Line 204: The property name PromptChar in msk_codbarras is invalid.
+Line 323: The property name _ExtentX in msk_data is invalid.
+Line 324: The property name _ExtentY in msk_data is invalid.
+Line 325: The property name _Version in msk_data is invalid.
+Line 326: The property name MaxLength in msk_data is invalid.
+Line 327: The property name Mask in msk_data is invalid.
+Line 328: The property name PromptChar in msk_data is invalid.
+Line 336: The property name _ExtentX in msk_codigo is invalid.
+Line 337: The property name _ExtentY in msk_codigo is invalid.
+Line 338: The property name _Version in msk_codigo is invalid.
+Line 339: The property name MaxLength in msk_codigo is invalid.
+Line 340: The property name PromptChar in msk_codigo is invalid.
